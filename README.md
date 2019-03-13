@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Combz Automation ヘルプサイト
 
-You can use the [editor on GitHub](https://github.com/CombzInc/docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 他社とのデータ連携に関すること
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ポップアップ表示のトラフィックをGoogle Analyticsに送信できます。
 
-### Markdown
+UAｰ で始まるGoogle Analytics IDを自動取得しますので設定登録は不要です。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Google Analytics連携をオフにしてもeventにデータが入ってくる
 
-```markdown
-Syntax highlighted code block
+複数のポップアップを設置している場合は、これらのポップアップのGoogle Analytics連携をオフにしてください。
 
-# Header 1
-## Header 2
-### Header 3
+## ログインユーザーに関すること
 
-- Bulleted
-- List
+### パスワードの変更方法
 
-1. Numbered
-2. List
+ログアウトし「パスワードを忘れた」からお手続きください。
 
-**Bold** and _Italic_ and `Code` text
+## ビジターに関すること
 
-[Link](url) and ![Image](src)
-```
+ビジターが、個体識別を拒否し追跡されないようにするには、ブラウザに保存されるクッキー bQN7U を削除してください。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 言葉の定義
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CombzInc/docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ビジターとは、サービスに訪れる訪問者のこと。ブラウザに保存されるクッキーで識別します。
