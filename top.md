@@ -18,7 +18,11 @@ UAｰ で始まるGoogle Analytics IDを自動取得しますので設定登録�
 <table>
   <tr>
     <td>aaaaa</td>
-    <td>bbbbb></td>
+    <td>bbbbb</td>
+  </tr>
+    <tr>
+    <td>aaaaa</td>
+    <td>bbbbb</td>
   </tr>
 </table>
 
