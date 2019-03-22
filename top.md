@@ -1,3 +1,5 @@
 documentへのリンク
 
 faqへのリンク
+
+historyへのリンク
