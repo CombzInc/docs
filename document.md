@@ -29,9 +29,6 @@
 ポップアップ表示のトラフィックをGoogle Analyticsに送信できます。  
 UAｰ で始まるGoogle Analytics IDは自動取得できますので設定登録は不要です。
 
-### Google Analytics連携をオフにしてもeventにデータが入ってくる
-複数のポップアップを設置していてオフになっていない可能性があります。設置しているすべてのポップアップのGoogle Analytics連携をオフにしてください。
-
 ## ビジター
 ビジターが、個体識別を拒否し追跡されないようにするには、https://auto.combz.jp/privacy-person/ をご覧ください。
 
