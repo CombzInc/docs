@@ -1,1 +1,1 @@
-[Faq](faq.html)
+[Top](top.html)
