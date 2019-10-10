@@ -1,7 +1,5 @@
 [top](top.html)
 
-[document](document.html)
-
 [popup](popup.html)
 
 [mail](mail.html)
