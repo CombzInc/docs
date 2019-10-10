@@ -1,13 +1,13 @@
-[top](top)
+[top](top.html)
 
-[document](document)
+[document](document.html)
 
-[popup](popup)
+[popup](popup.html)
 
-[mail](mail)
+[mail](mail.html)
 
-[webpush](webpush)
+[webpush](webpush.html)
 
-[chat](chat)
+[chat](chat.html)
 
-[movie](movie)
+[movie](movie.html)
