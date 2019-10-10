@@ -1,13 +1,14 @@
 version: 0.2
 
 phases:
-  # support_centerの各ページをCloudFront用s3に入れる
-  # このymlは、github の happi_docs に入れてください
+  # support_centerの各ページをCloudFront用s3に入れます
+  # このファイルは、github の happi_docs に入れてください
   install:
     runtime-versions:
       php: 7.3
 
   build:
     commands:
-      # happiのメニューのapiをキックする
+      # support_centerのファイルをs3に保存するapiにアクセス
+      # /make/ より後ろはsecret_codeです。意図しないアクセスがあれば変更してください
       - curl https://team.happi.net/api/support_center/make/djuhuashu45786siudgh852iyh345uy43
