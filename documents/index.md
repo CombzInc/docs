@@ -10,9 +10,9 @@
 
 [form](form.html)
 
-[web page](web page.html)
+[webpage](webpage.html)
 
-[page group](page group.html)
+[pagegroup](pagegroup.html)
 
 [scenario](scenario.html)
 
