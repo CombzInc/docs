@@ -1,7 +1,7 @@
 version: 0.2
 
 phases:
-  # 詳細は、README_support_center.md を確認してください
+  # See README_support_center.md
   install:
     runtime-versions:
       php: 7.3
