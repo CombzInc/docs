@@ -7,4 +7,6 @@ https://www.combz.jp/privacy をご覧ください。
 ## Google Analytics連携をオフにしてもeventにデータが入ってくる
 複数のポップアップを設置していてオフになっていない可能性があります。設置しているすべてのポップアップのGoogle Analytics連携をオフにしてください。  
 
-**詳しくは[こちら](https://happi.net/category/function/faq/)をご覧ください。**
+
+
+**その他、よくある質問は[こちら](https://happi.net/category/function/faq/)をご覧ください。**
