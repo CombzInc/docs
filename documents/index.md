@@ -4,6 +4,8 @@
 
 [member](member.html)
 
+[command](command.html)
+
 [popup](popup.html)
 
 [mail](mail.html)
