@@ -30,4 +30,4 @@
 <div id="bQN7U_nopopup"></div>
 ```
 
-シナリオについてのさらに詳しい情報は[こちら](https://www.happi.net/category/scenario)
+シナリオについてのさらに詳しい情報は[こちらです](https://www.happi.net/category/scenario)
